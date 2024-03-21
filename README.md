@@ -17,7 +17,13 @@ To use the Tailwind CSS components in your project, follow these steps:
 2. Change into the project directory:
 
    ```bash
-   cd TailwindComponentsTrain
+   cd TailwindComponentsTrain/component
+   ```
+
+   example
+
+   ```bash
+   cd TailwindComponentsTrain/navbars
    ```
 
 3. Install the dependencies:
